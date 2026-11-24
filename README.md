@@ -1,2 +1,1 @@
-# ENGCE123
-Embedded Systems and Internet of Everything
+# ENGCE123 - Embedded Systems and Internet of Everything
