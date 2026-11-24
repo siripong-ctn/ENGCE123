@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"1",1," Breadboard"
+"U1",1," 8-Bit Shift Register"
+"U2",1," Arduino Uno R3"
+"D9, D10, D11, D12, D13, D14, D15, D16",8,"Red LED"
+"R16, R1, R2, R3, R4, R5, R6, R7",8,"550 Ω Resistor"
+"Rpot1",1,"250 kΩ Potentiometer"
