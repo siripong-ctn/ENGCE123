@@ -1,2 +1,2 @@
 # ENGCE123
-IoT
+Embedded Systems and Internet of Everything
